@@ -1,7 +1,7 @@
 # Spike
 Fintech Application.
 
-###Features: 
+### Features: 
 1. Saving Stocks you like.
 2. Analyze any stock.
 3. IDK, Cool Interface lol
